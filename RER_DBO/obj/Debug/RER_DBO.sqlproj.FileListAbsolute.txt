@@ -1,0 +1,9 @@
+C:\Users\waaha\source\repos\RevalsysEmployeeRegistration\RER_DBO\bin\Debug\RER_DBO.dacpac
+C:\Users\waaha\source\repos\RevalsysEmployeeRegistration\RER_DBO\bin\Debug\RER_DBO.dll
+C:\Users\waaha\source\repos\RevalsysEmployeeRegistration\RER_DBO\bin\Debug\RER_DBO.pdb
+C:\Users\waaha\source\repos\RevalsysEmployeeRegistration\RER_DBO\obj\Debug\Model.xml
+C:\Users\waaha\source\repos\RevalsysEmployeeRegistration\RER_DBO\obj\Debug\refactor.xml
+C:\Users\waaha\source\repos\RevalsysEmployeeRegistration\RER_DBO\obj\Debug\postdeploy.sql
+C:\Users\waaha\source\repos\RevalsysEmployeeRegistration\RER_DBO\obj\Debug\predeploy.sql
+C:\Users\waaha\source\repos\RevalsysEmployeeRegistration\RER_DBO\obj\Debug\RER_DBO.dll
+C:\Users\waaha\source\repos\RevalsysEmployeeRegistration\RER_DBO\obj\Debug\RER_DBO.pdb

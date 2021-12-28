@@ -1,0 +1,8 @@
+C:\Users\waaha\source\repos\RevalsysEmployeeRegistration\RevalEMPRegLibrary\bin\Debug\RevalEMPRegLibrary.dll
+C:\Users\waaha\source\repos\RevalsysEmployeeRegistration\RevalEMPRegLibrary\bin\Debug\RevalEMPRegLibrary.pdb
+C:\Users\waaha\source\repos\RevalsysEmployeeRegistration\RevalEMPRegLibrary\bin\Debug\Dapper.dll
+C:\Users\waaha\source\repos\RevalsysEmployeeRegistration\RevalEMPRegLibrary\bin\Debug\Dapper.xml
+C:\Users\waaha\source\repos\RevalsysEmployeeRegistration\RevalEMPRegLibrary\obj\Debug\RevalEMPRegLibrary.csproj.AssemblyReference.cache
+C:\Users\waaha\source\repos\RevalsysEmployeeRegistration\RevalEMPRegLibrary\obj\Debug\RevalEMPRegLibrary.csproj.CoreCompileInputs.cache
+C:\Users\waaha\source\repos\RevalsysEmployeeRegistration\RevalEMPRegLibrary\obj\Debug\RevalEMPRegLibrary.dll
+C:\Users\waaha\source\repos\RevalsysEmployeeRegistration\RevalEMPRegLibrary\obj\Debug\RevalEMPRegLibrary.pdb
